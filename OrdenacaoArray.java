@@ -21,6 +21,5 @@ public class OrdenacaoArray {
         return crescente || decrescente;
     }
 
-    // Rodar código
-
 }
+
